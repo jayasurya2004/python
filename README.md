@@ -1,4 +1,4 @@
-
+#python
 def if_fibonacci(n):
 	prev = 0
 	next = 1
